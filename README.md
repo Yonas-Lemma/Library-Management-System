@@ -20,3 +20,8 @@ This is a simple Django application for managing a book library. Users can add, 
 1. **Clone the Repository**
    git clone https://github.com/YonasBetizazu/Library-Management-System.git
  
+![registerpage](https://github.com/user-attachments/assets/a370dfb6-74c0-44e2-a433-b70b4d339417)
+![Loginpage](https://github.com/user-attachments/assets/9f5a79d5-bc85-475a-a665-f2dcd08f4754)
+![homeadminpage](https://github.com/user-attachments/assets/c6e7f8a7-3e4b-46d1-b2b3-1d719b3a25cc)
+![rentbook](https://github.com/user-attachments/assets/94badffc-6cf2-47ab-a3f7-32c3302d41cf)
+![addbook](https://github.com/user-attachments/assets/e703c1d5-fd58-44d2-be54-8a371d6065d7)
